@@ -11,7 +11,7 @@ class DBFixtures {
             "track": 1,
             "level": 1,
             "requirements": [],
-            "intro_video": ''
+            "intro_video": ""
         };
     }
 
