@@ -1,0 +1,23 @@
+{
+  "name": "rest_api",
+  "version": "1.0.0",
+  "description": "RESTful app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webcamp-ua/rest_api.git"
+  },
+  "keywords": [
+    "REST",
+    "nodejs"
+  ],
+  "author": "zhukovka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webcamp-ua/rest_api/issues"
+  },
+  "homepage": "https://github.com/webcamp-ua/rest_api#readme"
+}
